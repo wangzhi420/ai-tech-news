@@ -1,0 +1,14 @@
+# 飞书应用凭证（含密钥，不要提交到 Git）
+.claude/settings.json
+.claude/settings.local.json
+
+# 定时任务运行时状态
+.claude/scheduled_tasks.json
+.claude/scheduled_tasks.lock
+
+# Node.js
+node_modules/
+
+# 系统文件
+.DS_Store
+Thumbs.db
